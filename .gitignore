@@ -42,7 +42,11 @@ target_wrapper.*
 # QtCreator CMake
 CMakeLists.txt.user*
 
-# lib
-# GL
-# glm
-# GLFW
+lib
+GL
+glm
+GLFW
+models
+resources
+doc
+Shadify2
