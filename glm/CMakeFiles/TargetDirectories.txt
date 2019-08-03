@@ -1,0 +1,2 @@
+/home/nathan/Documents/Geom3D/glm/CMakeFiles/edit_cache.dir
+/home/nathan/Documents/Geom3D/glm/CMakeFiles/rebuild_cache.dir
